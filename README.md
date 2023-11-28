@@ -15,7 +15,7 @@ scroll down and can now easily install the XBMCnfoTVImporter.
 ### Manual Installation:
 Not recommended, but possible if you know what you are doing.
 
-1. Download the [zipped bundle](https://github.com/gboudreau/XBMCnfoTVImporter.bundle/archive/master.zip) from github,
+1. Download the [zipped bundle](https://github.com/trulow/XBMCnfoTVImporter.bundle/archive/master.zip) from github,
 2. extract it,
 3. rename it to **XBMCnfoTVImporter.bundle**,
 4. find the [Plex Media Server data directory](https://support.plex.tv/hc/en-us/articles/202915258-Where-is-the-Plex-Media-Server-data-directory-located)
