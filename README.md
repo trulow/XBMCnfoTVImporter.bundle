@@ -32,3 +32,6 @@ User MattJ from the plex forum reported the following steps to install on ubuntu
 - "cd" to folder in step 3 and change ownership of both XBMC bundles: "sudo chown plex:{gid} XBMC*"
 - run "sudo service plexmediaserver restart".
 Done.
+
+### Supported File Formats:
+https://www.xbmc4xbox.org.uk/wiki/Import_-_Export_Library
